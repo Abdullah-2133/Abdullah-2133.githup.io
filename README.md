@@ -1,5 +1,6 @@
 # Project Title
 Personal Budget Tracker
+A simple web application that allows users to add their income and expenses, categorize them, and view a monthly summary with charts. It helps users understand their spending habits and manage their budget easily.
 
 ## 🛠️ Installation
 1. Download the project and extract the ZIP file.  
